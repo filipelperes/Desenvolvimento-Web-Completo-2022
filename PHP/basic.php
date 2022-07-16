@@ -57,6 +57,8 @@
     echo CONSTANTE . '<br>';
 
     /*
+    * . para concatenar com ''(aspas simples)
+    * 
     Operadores condicionais
     o único diferente é o de diferente,
     tendo o tradicional != e <>
