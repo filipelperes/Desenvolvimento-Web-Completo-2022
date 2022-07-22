@@ -51,7 +51,7 @@
          * 
          ? Importando e apelidando namespaces
          * use <nomeDoNameSpace>\Classe
-         * 
+         * as para apelidar
          */
 
         interface EquipamentoEletronicoInterface {

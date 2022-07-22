@@ -25,9 +25,6 @@
         //if(!file_exists('require_arquivo.php')) throw new Error();
     } catch (MeuErro $err) {
         $err->renderCustomErr();
-    } catch (Exception $exception) {
-
-    }
+    } catch (Exception $exception) {} catch (Error $err) {}
     finally {
-
     }
